@@ -1,11 +1,11 @@
 ### Hi there 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ohkl&label=Profile%20views&color=0e75b6&style=flat" alt="missuo" /> </p>
 - 🔭 I’m currently working on python-AI
 - 🌱 I’m currently learning pyscript
 - 👯 I’m looking to collaborate on python
 - 🤔 I’m looking for help with pyscipt-Document
 - 💬 Ask me about js html python pyscript
-- 📟 <a href="https://ohkl.github.io">my blog</a>
+- 📟 <a href="https://cdn-1.cfd">my blog</a>
 - 😊 Have a good time
 
 **Languages and Tools:**  
